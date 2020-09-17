@@ -1,0 +1,4 @@
+c-invokes-haskell.exe
+Lib_stub.h
+Lib.hi
+*.o
